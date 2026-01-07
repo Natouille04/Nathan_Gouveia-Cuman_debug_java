@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenClassroom.iml" filepath="$PROJECT_DIR$/OpenClassroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javadebug.iml" filepath="$PROJECT_DIR$/javadebug.iml" />
     </modules>
   </component>
 </project>
