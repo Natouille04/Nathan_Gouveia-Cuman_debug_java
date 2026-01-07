@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8e2905d-6fa3-4a39-a51c-49f30892db14" name="Changes" comment="Commented files and finalized project">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/com/hemebiotech/analytics/AnalyticsCounter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/com/hemebiotech/analytics/ISymptomReader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/com/hemebiotech/analytics/ISymptomWriter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/com/hemebiotech/analytics/ReadSymptomDataFromFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/com/hemebiotech/analytics/WriteSymptomDataToFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/com/hemebiotech/analytics/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/com/hemebiotech/analytics/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/legal/dejavufonts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans-BoldOblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans-BoldOblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans-Oblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans-Oblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSans.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono-BoldOblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono-BoldOblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono-Oblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono-Oblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSansMono.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/DejaVuLGCSerif.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/fonts/dejavu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/resource-files/x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/script-files/jquery-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/script-files/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/script-files/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/script-files/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/script-files/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/doc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/AnalyticsCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ISymptomReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ISymptomWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ReadSymptomDataFromFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/WriteSymptomDataToFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02Eclipse/src/result.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javadebug/com/hemebiotech/analytics/AnalyticsCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javadebug/com/hemebiotech/analytics/ISymptomReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javadebug/com/hemebiotech/analytics/ISymptomWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javadebug/com/hemebiotech/analytics/ReadSymptomDataFromFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javadebug/com/hemebiotech/analytics/WriteSymptomDataToFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javadebug/symptoms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/AnalyticsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/AnalyticsCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ISymptomReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ISymptomReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ISymptomWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ISymptomWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ReadSymptomDataFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/ReadSymptomDataFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/WriteSymptomDataToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project02Eclipse/src/com/hemebiotech/analytics/WriteSymptomDataToFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnalyticsCounter.executor": "Run",
+    "git-widget-placeholder": "dev",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AnalyticsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hemebiotech.analytics.AnalyticsCounter" />
+      <module name="javadebug" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hemebiotech.analytics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnalyticsCounter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Created writer interface">
+      <option name="closed" value="true" />
+      <created>1767778990108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767778990108</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactorized AnalyticsCounter to multiple methods">
+      <option name="closed" value="true" />
+      <created>1767791826960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767791826960</updated>
+    </task>
+    <task id="LOCAL-00003" summary="main implementation">
+      <option name="closed" value="true" />
+      <created>1767792904281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767792904281</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.out" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created writer interface" />
+    <MESSAGE value="Refactorized AnalyticsCounter to multiple methods" />
+    <MESSAGE value="main implementation" />
+    <MESSAGE value="Commented files and finalized project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commented files and finalized project" />
+  </component>
+</project>
