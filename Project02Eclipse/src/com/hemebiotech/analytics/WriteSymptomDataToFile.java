@@ -14,14 +14,13 @@ public class WriteSymptomDataToFile implements ISymptomWriter {
     public void writeSymptoms(Map<String, Integer> symptoms) {
         if (filepath != null) {
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(filepath, true))) {
-
                 for (Map.Entry<String, Integer> entry : symptoms.entrySet()) {
-                    String line = entry.getKey();
+                    String symptom = entry.getKey();
+                    Integer value = entry.getValue();
 
-                    writer.write(line);
+                    writer.write(symptom + "->" + value);
                     writer.newLine();
                 }
-
             }
 
             catch (IOException e) {
