@@ -12,7 +12,6 @@ public class AnalyticsCounter {
 	 * @param reader an implementation of ISymptomReader to fetch symptoms
 	 * @param writer an implementation of ISymptomWriter to save results
 	 */
-
 	public AnalyticsCounter(ISymptomReader reader, ISymptomWriter writer) {
 		AnalyticsCounter.reader = reader;
 		AnalyticsCounter.writer = writer;
@@ -23,7 +22,6 @@ public class AnalyticsCounter {
 	 *
 	 * @return a List of raw symptom strings
 	 */
-
 	public List<String> getSymptoms() {
 		return reader.GetSymptoms();
 	}
@@ -34,7 +32,6 @@ public class AnalyticsCounter {
 	 * @param symptoms the list of symptoms to count
 	 * @return a Map where the key is the symptom and the value is its count
 	 */
-
 	public Map<String, Integer> countSymptoms(List<String> symptoms) {
 		Map<String, Integer> result = new HashMap<>();
 
@@ -55,7 +52,6 @@ public class AnalyticsCounter {
 	 * @param symptoms a Map of symptoms and their counts
 	 * @return a new Map sorted by symptom name
 	 */
-
 	public Map<String, Integer> sortSymptoms(Map<String, Integer> symptoms) {
 		List<String> symptomsByKey = new ArrayList<>(symptoms.keySet());
 		Collections.sort(symptomsByKey);
@@ -73,28 +69,7 @@ public class AnalyticsCounter {
 	 *
 	 * @param symptoms a Map of symptoms and their counts to write
 	 */
-
 	public void writeSymptoms(Map<String, Integer> symptoms) {
 		writer.writeSymptoms(symptoms);
-	}
-
-	/**
-	 * Main method to run the analytics workflow:
-	 * reading symptoms, counting, sorting, and writing the results.
-	 *
-	 * @param args command-line arguments (not used)
-	 * @throws Exception if reading or writing fails
-	 */
-
-	public static void main(String[] args) throws Exception {
-		ISymptomReader entryFile = new ReadSymptomDataFromFile("symptoms.txt");
-		ISymptomWriter outFile = new WriteSymptomDataToFile("result.out");
-
-		AnalyticsCounter counter = new AnalyticsCounter(entryFile, outFile);
-
-		List<String> symptoms = counter.getSymptoms();
-		Map<String, Integer> sortedSymptoms = counter.sortSymptoms(counter.countSymptoms(symptoms));
-
-		counter.writeSymptoms(sortedSymptoms);
 	}
 }
